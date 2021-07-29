@@ -2,7 +2,7 @@
 
 /**
  * printf_oct - prints an octal number.
- * @val: arguments.
+ * @val: argumnts.
  * Return: counter.
  */
 int printf_oct(va_list val)
